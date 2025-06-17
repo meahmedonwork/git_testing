@@ -46,4 +46,4 @@ app.*.map.json
 
 ahmed
 
-lib/gittype/gitsubtype/file_to_ignore.dart
+/lib/gittype/gitsubtype/file_to_ignore.dart

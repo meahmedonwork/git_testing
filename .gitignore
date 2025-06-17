@@ -45,3 +45,5 @@ app.*.map.json
 /android/app/release
 
 ahmed
+
+lib/gittype/gitsubtype/file_to_ignore.dart
